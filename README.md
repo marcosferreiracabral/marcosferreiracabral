@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header_banner.jpg" alt="Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/marcosferreiracabral/marcosferreiracabral/main/assets/header_banner.jpg" alt="Header Banner" width="100%" />
 
   <br/><br/>
 
