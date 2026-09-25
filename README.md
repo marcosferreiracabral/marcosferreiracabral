@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:0052cc,100:00d2ff&height=220&section=header&text=Marcos%20Ferreira%20Cabral&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Senior%20Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20GenAI%20%26%20RAG%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="assets/header_banner.jpg" alt="Header Banner" width="100%" />
+
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
