@@ -5,14 +5,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/marcosferreiracabral/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge" alt="Lattes Badge"/>
-    </a>
-  </p>
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosferreiracabral/)
+  [![Curriculo Lattes](https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/3516644880512870)
 </div>
 
 ---
@@ -121,13 +117,9 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **Soluções Cloud**, **IA Generativa Corporativa** e **Iniciativas Educacionais**.
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/marcosferreiracabral/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-  <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge" alt="Lattes Badge"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosferreiracabral/)
+[![Curriculo Lattes](https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/3516644880512870)
 
 </div>
