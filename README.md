@@ -17,46 +17,46 @@
 
 ---
 
-### 📌 Resumo Executivo & Engenharia de Impacto
+### Resumo Executivo & Engenharia de Impacto
 
 Engenheiro de Dados Sênior e Arquiteto de Soluções com mais de **20 anos de trajetória sólida em Tecnologia da Informação**. Especialista no ciclo ponta a ponta de engenharia de dados em larga escala, arquiteturas modernas de **Data Lakehouse**, migrações críticas on-premise para **Multi-Cloud (AWS e Azure)** e engenharia aplicada de **IA Generativa (RAG e LLMOps)**.
 
 Combinando visão estratégica corporativa e execução técnica de alta precisão:
-- 🚀 **+200 TB migrados** de infraestruturas legadas para Cloud corporativa com **redução média de 40% no tempo de processamento**.
-- ⚙️ **+30 pipelines analíticos críticos** implementados e sustentados sob rigorosos padrões de governança, escalabilidade e observabilidade.
-- 🎓 **+1.500 profissionais capacitados** no mercado de tecnologia através de docência no ensino superior e pós-graduação.
+- **+200 TB migrados** de infraestruturas legadas para Cloud corporativa com **redução média de 40% no tempo de processamento**.
+- **+30 pipelines analíticos críticos** implementados e sustentados sob rigorosos padrões de governança, escalabilidade e observabilidade.
+- **+1.500 profissionais capacitados** no mercado de tecnologia através de docência no ensino superior e pós-graduação.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ecossistema
+### Stack Tecnológica & Ecossistema
 
 <div align="center">
 
-#### ☁️ Cloud & Data Platforms
+#### Cloud & Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/Cloudera-F25F22?style=for-the-badge&logo=cloudera&logoColor=white)
 
-#### 💻 Linguagens & Core
+#### Linguagens & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-#### ⚡ Big Data, Streaming & Orquestração
+#### Big Data, Streaming & Orquestração
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
-#### 🤖 IA Generativa & LLMOps
+#### IA Generativa & LLMOps
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-00D2FF?style=for-the-badge&logo=diagram-next&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🛡️ Governança & Práticas
+#### Governança & Práticas
 ![Data Governance](https://img.shields.io/badge/Data_Governance-LGPD-0052CC?style=for-the-badge&logo=shield&logoColor=white)
 ![Data Lakehouse](https://img.shields.io/badge/Architecture-Data_Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![CI/CD & DevOps](https://img.shields.io/badge/DevOps-DataOps-2088FF?style=for-the-badge&logo=git&logoColor=white)
@@ -65,21 +65,21 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 ---
 
-### 💼 Realizações Corporativas & Impacto Quantificável
+### Realizações Corporativas & Impacto Quantificável
 
-#### 🏦 1. Modernização & Migração de Data Warehouse | **Itaú Unibanco**
+#### 1. Modernização & Migração de Data Warehouse | **Itaú Unibanco**
 - **Objetivo**: Liderar a transição tecnológica da arquitetura legada on-premise para um ecossistema cloud escalável na AWS, sustentando ingestão em tempo real e batch.
 - **Execução**: Construção e orquestração de pipelines de alta performance processando **mais de 5 TB diários**, com modelagem analítica via dbt e ingestão orientada a eventos com Apache Kafka e PySpark.
 - **Impacto de Negócio**: **Redução de 35% nos custos operacionais de infraestrutura** e expressivo ganho em disponibilidade e resiliência de dados para suporte à tomada de decisão.
 - **Stack**: `PySpark` • `dbt` • `AWS (EMR, S3, Glue)` • `Apache Kafka` • `SQL`
 
-#### 🤖 2. Arquitetura de Dados para IA Generativa (RAG) | **Avanade**
+#### 2. Arquitetura de Dados para IA Generativa (RAG) | **Avanade**
 - **Objetivo**: Projetar e implementar uma plataforma analítica bancária avançada integrando fluxos de dados transacionais com modelos de linguagem (LLMs) em produção.
 - **Execução**: Desenvolvimento de pipelines de vetorização e recuperação contextualizada (Retrieval-Augmented Generation - RAG) conectando bases analíticas seguras com endpoints de LLM via Azure OpenAI.
 - **Impacto de Negócio**: **Diminuição de 40% no tempo de processamento de fluxos analíticos** e viabilização de assistentes inteligentes corporativos com isolamento e governança de dados.
 - **Stack**: `Python` • `Apache Spark` • `Azure Cloud` • `Azure OpenAI` • `LangChain` • `Vector Search`
 
-#### 🏛️ 3. Modernização de Data Lakes & Eliminação de Legado | **EY / Capgemini**
+#### 3. Modernização de Data Lakes & Eliminação de Legado | **EY / Capgemini**
 - **Objetivo**: Reestruturar Data Lakes corporativos em instituições financeiras sob forte exigência regulatória e compliance.
 - **Execução**: Migração de rotinas legadas SAS e infraestruturas heterogêneas para arquiteturas modernas de Data Lakehouse baseadas em Databricks e Azure.
 - **Impacto de Negócio**: **Economia superior a R$ 3 milhões anuais** através da eliminação de custos de licenciamento legado e otimização de cluster computing.
@@ -87,7 +87,7 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 ---
 
-### 📂 Portfólio de Soluções & Engenharia Prática
+### Portfólio de Soluções & Engenharia Prática
 
 | Projeto | Domínio / Foco | Principais Tecnologias |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 ---
 
-### 📊 Métricas & Estatísticas GitHub
+### Métricas & Estatísticas GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosferreiracabral&theme=tokyonight" alt="GitHub Stats" height="165" />
@@ -115,7 +115,7 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 ---
 
-### 🤝 Conecte-se comigo
+### Conecte-se comigo
 
 <div align="center">
 
