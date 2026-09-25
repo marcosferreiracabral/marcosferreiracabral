@@ -6,9 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Curriculo_Lattes-3516644880512870-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
-    <img src="https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <a href="https://www.linkedin.com/in/marcosferreiracabral/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
+      <img src="https://img.shields.io/badge/Curriculo_Lattes-3516644880512870-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+    </a>
   </p>
 </div>
 
@@ -118,8 +121,7 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **Soluções Cloud**, **IA Generativa Corporativa** e **Iniciativas Educacionais**.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=flat-square&logo=github)
-![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcosferreiracabral/)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)](http://lattes.cnpq.br/3516644880512870)
 
 </div>
