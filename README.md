@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-      <img src="https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
     </a>
     <a href="https://github.com/marcosferreiracabral" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -108,12 +108,12 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 ### 📊 Métricas & Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosferreiracabral&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreiracabral&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosferreiracabral&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosferreiracabral&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosferreiracabral&theme=tokyonight&hide_border=true&background=0d1117&fire=00d2ff&ring=0052cc&currStreakLabel=00d2ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=marcosferreiracabral&theme=tokyonight&hide_border=true&background=0d1117&fire=00d2ff&ring=0052cc&currStreakLabel=00d2ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -126,6 +126,6 @@ Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **So
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcosferreiracabral)
 [![GitHub](https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=flat-square&logo=github)](https://github.com/marcosferreiracabral)
-[![Lattes](https://img.shields.io/badge/Lattes-Currículo_Acadêmico-003366?style=flat-square&logo=academia)](http://lattes.cnpq.br/3516644880512870)
+[![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)](http://lattes.cnpq.br/3516644880512870)
 
 </div>
