@@ -3,20 +3,12 @@
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/marcosferreiracabral" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
-    </a>
-    <a href="https://github.com/marcosferreiracabral" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Curriculo_Lattes-3516644880512870-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </p>
 </div>
 
@@ -96,14 +88,14 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 | Projeto | Domínio / Foco | Principais Tecnologias |
 | :--- | :--- | :--- |
-| **[PDF Assistant](https://github.com/marcosferreiracabral/PDF_Assistent)** | IA Generativa & Extração Inteligente de Documentos | Python, LangChain, OpenAI, Streamlit |
-| **[Website Change Tracker IA](https://github.com/marcosferreiracabral/Website_Change_Tracker_IA)** | Monitoramento & Análise Automatizada com IA | Python, GenAI, Web Scraping, CodeQL |
-| **[CardShield](https://github.com/marcosferreiracabral/CardShield)** | Previsão e Detecção em Serviços & Dados | Python, Machine Learning, Data Analytics |
-| **[Sentinela Card](https://github.com/marcosferreiracabral/Sentinela_Card)** | Motor de Regras & Conformidade de Transações | Python, PyProject, Rule Engine, Automation |
-| **[Bot Atendimento](https://github.com/marcosferreiracabral/Bot_Atend)** | Automação Conversacional Inteligente | Python, AsyncIO, API Integration |
-| **[Análise de Mercado](https://github.com/marcosferreiracabral/Analise_Mercado_Alpha_Vantage)** | Ingestão e Processamento Financeiro em Container | Python, Docker, Financial Data APIs |
-| **[Examination System](https://github.com/marcosferreiracabral/Examination_System)** | Plataforma de Avaliação com Validação de Código | Python, Web Engine, CodeQL Analysis |
-| **[Seg File](https://github.com/marcosferreiracabral/Seg_File)** | Processamento e Segurança de Arquivos | Node.js, File Processing, Security |
+| **PDF Assistant** | IA Generativa & Extração Inteligente de Documentos | Python, LangChain, OpenAI, Streamlit |
+| **Website Change Tracker IA** | Monitoramento & Análise Automatizada com IA | Python, GenAI, Web Scraping, CodeQL |
+| **CardShield** | Previsão e Detecção em Serviços & Dados | Python, Machine Learning, Data Analytics |
+| **Sentinela Card** | Motor de Regras & Conformidade de Transações | Python, PyProject, Rule Engine, Automation |
+| **Bot Atendimento** | Automação Conversacional Inteligente | Python, AsyncIO, API Integration |
+| **Análise de Mercado** | Ingestão e Processamento Financeiro em Container | Python, Docker, Financial Data APIs |
+| **Examination System** | Plataforma de Avaliação com Validação de Código | Python, Web Engine, CodeQL Analysis |
+| **Seg File** | Processamento e Segurança de Arquivos | Node.js, File Processing, Security |
 
 ---
 
@@ -126,8 +118,8 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **Soluções Cloud**, **IA Generativa Corporativa** e **Iniciativas Educacionais**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcosferreiracabral)
-[![GitHub](https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=flat-square&logo=github)](https://github.com/marcosferreiracabral)
-[![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)](http://lattes.cnpq.br/3516644880512870)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-marcosferreiracabral-181717?style=flat-square&logo=github)
+![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)
 
 </div>
