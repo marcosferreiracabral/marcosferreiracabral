@@ -91,22 +91,22 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 | Projeto | Domínio / Foco | Principais Tecnologias |
 | :--- | :--- | :--- |
-| **PDF Assistant** | IA Generativa & Extração Inteligente de Documentos | Python, LangChain, OpenAI, Streamlit |
-| **Website Change Tracker IA** | Monitoramento & Análise Automatizada com IA | Python, GenAI, Web Scraping, CodeQL |
-| **CardShield** | Previsão e Detecção em Serviços & Dados | Python, Machine Learning, Data Analytics |
-| **Sentinela Card** | Motor de Regras & Conformidade de Transações | Python, PyProject, Rule Engine, Automation |
-| **Bot Atendimento** | Automação Conversacional Inteligente | Python, AsyncIO, API Integration |
-| **Análise de Mercado** | Ingestão e Processamento Financeiro em Container | Python, Docker, Financial Data APIs |
-| **Examination System** | Plataforma de Avaliação com Validação de Código | Python, Web Engine, CodeQL Analysis |
-| **Seg File** | Processamento e Segurança de Arquivos | Node.js, File Processing, Security |
+| **[PDF Assistant](https://github.com/marcosferreiracabral/PDF_Assistent)** | IA Generativa & Extração Inteligente de Documentos | Python, LangChain, OpenAI, Streamlit |
+| **[Website Change Tracker IA](https://github.com/marcosferreiracabral/Website_Change_Tracker_IA)** | Monitoramento & Análise Automatizada com IA | Python, GenAI, Web Scraping, CodeQL |
+| **[CardShield](https://github.com/marcosferreiracabral/CardShield)** | Previsão e Detecção em Serviços & Dados | Python, Machine Learning, Data Analytics |
+| **[Sentinela Card](https://github.com/marcosferreiracabral/Sentinela_Card)** | Motor de Regras & Conformidade de Transações | Python, PyProject, Rule Engine, Automation |
+| **[Bot Atendimento](https://github.com/marcosferreiracabral/Bot_Atend)** | Automação Conversacional Inteligente | Python, AsyncIO, API Integration |
+| **[Análise de Mercado](https://github.com/marcosferreiracabral/Analise_Mercado_Alpha_Vantage)** | Ingestão e Processamento Financeiro em Container | Python, Docker, Financial Data APIs |
+| **[Examination System](https://github.com/marcosferreiracabral/Examination_System)** | Plataforma de Avaliação com Validação de Código | Python, Web Engine, CodeQL Analysis |
+| **[Seg File](https://github.com/marcosferreiracabral/Seg_File)** | Processamento e Segurança de Arquivos | Node.js, File Processing, Security |
 
 ---
 
 ### 📊 Métricas & Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosferreiracabral&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosferreiracabral&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosferreiracabral&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosferreiracabral&theme=tokyonight" alt="Repos per Language" height="165" />
 </div>
 
 <div align="center">
