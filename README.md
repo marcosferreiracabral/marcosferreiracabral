@@ -7,10 +7,10 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/marcosferreiracabral/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-      <img src="https://img.shields.io/badge/Curriculo_Lattes-3516644880512870-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
     </a>
   </p>
 </div>
@@ -121,7 +121,13 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **Soluções Cloud**, **IA Generativa Corporativa** e **Iniciativas Educacionais**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Ferreira_Cabral-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marcosferreiracabral/)
-[![Lattes](https://img.shields.io/badge/Lattes-Curriculo_Academico-003366?style=flat-square&logo=academia)](http://lattes.cnpq.br/3516644880512870)
+<br/>
+
+<a href="https://www.linkedin.com/in/marcosferreiracabral/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
+  <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+</a>
 
 </div>
