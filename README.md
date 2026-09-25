@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+      <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge" alt="Lattes Badge"/>
     </a>
   </p>
 </div>
@@ -127,7 +127,7 @@ Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **So
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="http://lattes.cnpq.br/3516644880512870" target="_blank">
-  <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes Badge"/>
+  <img src="https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge" alt="Lattes Badge"/>
 </a>
 
 </div>
