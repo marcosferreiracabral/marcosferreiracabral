@@ -31,7 +31,36 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 ### Stack Tecnológica & Ecossistema
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcosferreiracabral/marcosferreiracabral/main/assets/tech_stack.png" alt="Stack Tecnológica & Ecossistema" width="100%" />
+
+#### Cloud & Data Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera-F25F22?style=for-the-badge&logo=cloudera&logoColor=white)
+
+#### Linguagens & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+#### Big Data, Streaming & Orquestração
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+#### IA Generativa & LLMOps
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-00D2FF?style=for-the-badge&logo=diagram-next&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Governança & Práticas
+![Data Governance](https://img.shields.io/badge/Data_Governance-LGPD-0052CC?style=for-the-badge&logo=shield&logoColor=white)
+![Data Lakehouse](https://img.shields.io/badge/Architecture-Data_Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![CI/CD & DevOps](https://img.shields.io/badge/DevOps-DataOps-2088FF?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
