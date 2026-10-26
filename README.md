@@ -3,12 +3,13 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Senior+Data+Engineer;Cloud+Data+Architect+(AWS+%7C+Azure);GenAI+%26+RAG+Systems+Engineer;20%2B+Anos+Transformando+Dados+em+Resultados;NEXOS+%C2%B7+Dados+%26+IA" alt="Typing SVG" />
 
   <br/><br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosferreiracabral/)
   [![Curriculo Lattes](https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/3516644880512870)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982989192)
 </div>
 
 ---
@@ -67,19 +68,19 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 - **Objetivo**: Liderar a transição tecnológica da arquitetura legada on-premise para um ecossistema cloud escalável na AWS, sustentando ingestão em tempo real e batch.
 - **Execução**: Construção e orquestração de pipelines de alta performance processando **mais de 5 TB diários**, com modelagem analítica via dbt e ingestão orientada a eventos com Apache Kafka e PySpark.
 - **Impacto de Negócio**: **Redução de 35% nos custos operacionais de infraestrutura** e expressivo ganho em disponibilidade e resiliência de dados para suporte à tomada de decisão.
-- **Stack**: `PySpark` • `dbt` • `AWS (EMR, S3, Glue)` • `Apache Kafka` • `SQL`
+- **Stack**: PySpark • dbt • AWS (EMR, S3, Glue) • Apache Kafka • SQL
 
 #### 2. Arquitetura de Dados para IA Generativa (RAG) | **Avanade**
 - **Objetivo**: Projetar e implementar uma plataforma analítica bancária avançada integrando fluxos de dados transacionais com modelos de linguagem (LLMs) em produção.
 - **Execução**: Desenvolvimento de pipelines de vetorização e recuperação contextualizada (Retrieval-Augmented Generation - RAG) conectando bases analíticas seguras com endpoints de LLM via Azure OpenAI.
 - **Impacto de Negócio**: **Diminuição de 40% no tempo de processamento de fluxos analíticos** e viabilização de assistentes inteligentes corporativos com isolamento e governança de dados.
-- **Stack**: `Python` • `Apache Spark` • `Azure Cloud` • `Azure OpenAI` • `LangChain` • `Vector Search`
+- **Stack**: Python • Apache Spark • Azure Cloud • Azure OpenAI • LangChain • Vector Search
 
 #### 3. Modernização de Data Lakes & Eliminação de Legado | **EY / Capgemini**
 - **Objetivo**: Reestruturar Data Lakes corporativos em instituições financeiras sob forte exigência regulatória e compliance.
 - **Execução**: Migração de rotinas legadas SAS e infraestruturas heterogêneas para arquiteturas modernas de Data Lakehouse baseadas em Databricks e Azure.
 - **Impacto de Negócio**: **Economia superior a R$ 3 milhões anuais** através da eliminação de custos de licenciamento legado e otimização de cluster computing.
-- **Stack**: `Databricks` • `Cloudera` • `Apache Spark` • `Microsoft Azure` • `Python / SQL`
+- **Stack**: Databricks • Cloudera • Apache Spark • Microsoft Azure • Python / SQL
 
 ---
 
@@ -87,6 +88,7 @@ Combinando visão estratégica corporativa e execução técnica de alta precis�
 
 | Projeto | Domínio / Foco | Principais Tecnologias |
 | :--- | :--- | :--- |
+| **[NEXOS Web Site](https://github.com/marcosferreiracabral/nexos_web_site)** | Landing Page & Identidade Digital NEXOS Dados & IA | HTML5, CSS3 Tokens, Vanilla JS, Dark Space |
 | **[PDF Assistant](https://github.com/marcosferreiracabral/PDF_Assistent)** | IA Generativa & Extração Inteligente de Documentos | Python, LangChain, OpenAI, Streamlit |
 | **[Website Change Tracker IA](https://github.com/marcosferreiracabral/Website_Change_Tracker_IA)** | Monitoramento & Análise Automatizada com IA | Python, GenAI, Web Scraping, CodeQL |
 | **[CardShield](https://github.com/marcosferreiracabral/CardShield)** | Previsão e Detecção em Serviços & Dados | Python, Machine Learning, Data Analytics |
@@ -121,5 +123,6 @@ Estou sempre aberto a discussões sobre **Arquitetura de Dados em Escala**, **So
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosferreiracabral/)
 [![Curriculo Lattes](https://img.shields.io/badge/Curriculo_Lattes-003366?style=for-the-badge)](http://lattes.cnpq.br/3516644880512870)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982989192)
 
 </div>
